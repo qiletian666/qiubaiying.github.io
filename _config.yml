@@ -1,5 +1,5 @@
 # Site settings
-title: 书豪 GOOD BOY Blog
+title: 书豪 的 Blog
 SEOTitle: 戚书豪的博客 | GOOD BOY Blog
 header-img: img/post-bg-YesOrNo.jpg
 email: 919112734@qq.com
@@ -102,8 +102,8 @@ friends: [
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "百度",
+        href: "http://www.baidu.com"
     },{
         title: "Apple",
         href: "https://apple.com"
